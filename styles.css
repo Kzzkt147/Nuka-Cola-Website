@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+.header{
+    background-color: white;;
+    height: 150px;
+}
+.header_title{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    color: #d70924;
+    text-align: center;
+    padding-top: 40px;
+    border-bottom: 1px solid red;
+    padding-bottom: 20px;
+    font-family: 'Oswald', sans-serif;
+}
+.header_nav{
+    text-align: center;
+    color: red;
+    padding-top: 10px;
+    font-size: .80rem;
+}
+
+
+
+#home_welcome{
+    background-color: #d6001c;
+    height: 333px;
+    text-align: center;
+    font-size: 3em;
+    padding-top: 80px;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+}
+
+#placeholder{
+    height: 500px;
+}
+
+#home_about{
+    background-color: #d6001c;
+    height: 430px;
+}
+#home_about_text{
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+}
+#home_about_text h2{
+    padding-top: 20px;
+    font-size: 1.5rem;
+}
+#home_about_text p{
+    width: 70%;
+    font-size: 1rem;
+    padding-top: 30px;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
