@@ -116,11 +116,12 @@
 
 #about{
     background-color: #d6001c;
-    height: 700px;
+    height: auto;
     text-align: center;
     color: white;
     padding-top: 75px;
     font-family: 'Oswald', sans-serif;
+    padding-bottom: 50px;
 }
 #about_text{
     padding-top: 50px;
