@@ -138,13 +138,16 @@
 
 #nukaworld{
     background-color: #d6001c;
-    height: 500px;
+    height: auto;
     text-align: center;
     padding-top: 100px;
+    padding-bottom: 100px;
 }
 #nukaworld_about{
     color: white;
     font-family: 'Oswald', sans-serif;
+    margin-top: auto;
+    margin-bottom: auto;
 }
 
 
