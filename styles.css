@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
 
+
+
 .header{
     background-color: white;;
     height: 150px;
@@ -164,3 +166,33 @@
     padding-top: 30px;
     font-size: 0.75rem;
 }
+
+
+/* xs devices */
+.header { background-color: white }
+#home_welcome{ font-size: 2rem; }
+#bottles{ visibility: hidden;}
+            
+/* sm devices */
+@media (min-width: 576px) {
+    .header { background-color: white }
+    #home_welcome{ font-size: 3rem; }
+}
+/* md devices */
+@media (min-width: 768px) {
+    .header { background-color: white }
+    #bottles{ visibility: visible;}
+}
+/* lg devices */
+@media (min-width: 992px) {
+    .header { background-color: white }
+}
+/* xl devices */
+@media (min-width: 1200px) {
+    .header { background-color: white }
+
+
+
+
+
+
