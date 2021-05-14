@@ -4,6 +4,9 @@
     background-color: white;;
     height: 150px;
 }
+#placeholder{
+    height: 500px;
+}
 .header_title{
     width: 90%;
     margin-left: auto;
@@ -39,9 +42,18 @@
     font-family: 'Oswald', sans-serif;
 }
 
-#placeholder{
-    height: 500px;
+#home_promotional{
+    height: auto;
+    background-image: url(img/Promotional.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top;
 }
+#home_promotional img{
+    width: 100%;
+    visibility: hidden;
+}
+
 
 #home_about{
     background-color: #d6001c;
