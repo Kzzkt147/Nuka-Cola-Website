@@ -32,6 +32,9 @@
 
 
 
+
+
+
 #home_welcome{
     background-color: #d6001c;
     height: 333px;
@@ -41,6 +44,7 @@
     color: white;
     font-family: 'Oswald', sans-serif;
 }
+
 
 #home_promotional{
     height: auto;
@@ -76,4 +80,50 @@
     text-align: center;
     margin-right: auto;
     margin-left: auto;
+}
+
+
+#home_products{
+    height: auto;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    padding-top: 80px;
+    color: #d6001c;
+    padding-bottom: 100px;
+}
+
+
+#home_flavours{
+    padding-top: 50px;
+}
+#flavour_list h2{
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+
+#home_contact{
+    padding-top: 100px;
+    height: 375px;
+    background-color: #d6001c;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+}
+#home_contact p{
+    padding-top: 10px;
+    font-size: .8rem;
+}
+
+
+
+
+.bottom_banner{
+    height: 75px;
+    text-align: center;
+    color: #d6001c;
+}
+.bottom_banner p{
+    padding-top: 30px;
+    font-size: 0.75rem;
 }
