@@ -4,9 +4,6 @@
     background-color: white;;
     height: 150px;
 }
-#placeholder{
-    height: 500px;
-}
 .header_title{
     width: 90%;
     margin-left: auto;
@@ -114,6 +111,11 @@
     padding-top: 10px;
     font-size: .8rem;
 }
+
+
+
+
+
 
 
 
