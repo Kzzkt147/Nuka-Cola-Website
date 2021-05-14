@@ -114,6 +114,29 @@
 
 
 
+#about{
+    background-color: #d6001c;
+    height: 700px;
+    text-align: center;
+    color: white;
+    padding-top: 75px;
+    font-family: 'Oswald', sans-serif;
+}
+#about_text{
+    padding-top: 50px;
+}
+#about_text p{
+    padding-top: 15px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: .85rem;
+}
+
+
+
+
+
 
 
 
