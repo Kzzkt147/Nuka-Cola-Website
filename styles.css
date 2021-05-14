@@ -20,6 +20,11 @@
     color: red;
     padding-top: 10px;
     font-size: .80rem;
+    word-spacing: 5px;
+}
+.header_nav a{
+    color: #d70924;
+    text-decoration: none;
 }
 
 
